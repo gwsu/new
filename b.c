@@ -3,5 +3,6 @@ main()
 {
 int char;
 char new;
+cher a;
 printf("hello world!");
 }
