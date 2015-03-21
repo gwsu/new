@@ -2,6 +2,7 @@
 main()
 {
 int char;
-char new;
+char newa;
+char ll;
 printf("hello world!");
 }
